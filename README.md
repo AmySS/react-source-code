@@ -1,5 +1,7 @@
 # react-source-code
 
+> 内容参照了《深入React技术栈》 一书及部分网络资料
+
 [Main conception and API](https://github.com/AmySS/react-source-code/issues/1)
 
 [React事件系统](https://github.com/AmySS/react-source-code/issues/2)
